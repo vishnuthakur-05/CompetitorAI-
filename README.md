@@ -37,16 +37,6 @@ Built during the AI Agent Hackathon 2025 in just 3 days.
 
 ---
 
-## 📷 Demo
-
-*Live Demo:* [Insert Demo Link Here]  
-*Screenshots:*  
-- [ ] Competitor Input Interface  
-- [ ] Feature Comparison Table  
-- [ ] PDF Download Button  
-- [ ] Email Report Confirmation
-
----
 
 ## 🔧 Installation
 
@@ -55,6 +45,8 @@ Built during the AI Agent Hackathon 2025 in just 3 days.
 ```bash
 git clone https://github.com/vishnuthakur-05/competitor-ai.git
 cd competitor-ai
+cd Hackathon app
 pip install -r requirements.txt
 streamlit run app.py
-
+cd competitor_feature_tracker_ai
+Go Live(Index.html)
