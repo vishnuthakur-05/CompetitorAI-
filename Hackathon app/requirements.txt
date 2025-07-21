@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+openai
+requests
+pandas
+beautifulsoup4
+lxml
+markdown-it-py
+mdurl
+reportlab
+
+
